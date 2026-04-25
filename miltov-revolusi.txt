@@ -1,3 +1,4 @@
 Miltov Revolusi
 - Konsisten Belajar Fundamental Programing
-- Coursen Fundamental Programing di WPU
+- Course Fundamental Programing di WPU
+- setelah itu mungkin dilanjutkan dengan next.js dan nest.js
