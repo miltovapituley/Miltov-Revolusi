@@ -1,5 +1,6 @@
 Rencana belajar Javacript
 mulai dari pengenalan
+Struktur Data Dasar
 mulai ngoding
   * mulai dari belajar syntax java sripti
   * setelah itu pengenalan ngoding bahasanya
