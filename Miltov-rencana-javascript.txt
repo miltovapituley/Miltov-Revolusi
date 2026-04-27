@@ -1,9 +1,18 @@
 Rencana belajar Javacript
 mulai dari pengenalan
 Struktur Data Dasar
+   * Angular
+   *Nest JS
+mulai ngoding
+  * mulai dari belajar syntax java sripti
+  * setelah itu pengenalan ngoding bahasanya
+  
+Laravel
    # dasar data
 mulai ngoding
   * mulai dari belajar syntax java sripti
   * setelah itu pengenalan ngoding bahasanya
    # belajar react
+   
 Python
+
